@@ -11,4 +11,5 @@ mini-redis = "0.4"
 bytes = "1"
 crossbeam = "0.8.2"
 futures = "0.3.25"
+tokio-stream = "0.1.11"
 
